@@ -15,8 +15,8 @@ https://github.com/YOUR USER NAME/learn-git/
   <img src="https://mrwgifs.com/wp-content/uploads/2013/11/Gandalf-Is-Searching-For-Someone-To-Adventure-With-In-Lord-Of-The-Rings.gif" alt="Gandalf">
 </p>
 
-<p style="text-align: center;">
-    <i>you can begin this journey with this simple README.md.</i>
+<p align="center">
+  <i>you can begin this journey with this simple README.md.</i>
 </p>
 
 
