@@ -10,13 +10,15 @@ Once you've completed this step, you should see this URL below in your browser:
 ```text
 https://github.com/YOUR USER NAME/learn-git/
 ```
+
+<p align="center">
+  <img src="https://mrwgifs.com/wp-content/uploads/2013/11/Gandalf-Is-Searching-For-Someone-To-Adventure-With-In-Lord-Of-The-Rings.gif" alt="Gandalf">
+</p>
+
 <div style="text-align: center;">
-
-![Gandalf quote](https://mrwgifs.com/wp-content/uploads/2013/11/Gandalf-Is-Searching-For-Someone-To-Adventure-With-In-Lord-Of-The-Rings.gif)
-
-*you can begin this journey with this simple README.md.*
-
+    <i>you can begin this journey with this simple README.md.</i>
 </div>
+
 
 Tools
 =====
